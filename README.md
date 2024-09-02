@@ -1,4 +1,4 @@
-# Chess Game
+# Chess Master
 
 This is a simple chess game implemented in Java. It allows you to play chess on a graphical user interface.
 
@@ -21,9 +21,3 @@ This is a simple chess game implemented in Java. It allows you to play chess on 
 
 - Click on a piece to select it.
 - Click on a valid square to move the selected piece.
-
-## Credits
-
-- Created by [pnpduy](https://github.com/pnpduy).
-- Tutorial by [Ryisnow](https://www.youtube.com/@RyiSnow).
-- Chess pieces images by [Ryisnow](https://www.youtube.com/@RyiSnow).
